@@ -1,0 +1,172 @@
+.body{
+    
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    
+    
+}
+
+
+
+.main{
+    width: 1192px;
+    height: 751px;
+    background-color: #3a4965;
+    margin: 0 auto; 
+    font-family: "Arimo", sans-serif;
+}
+.conteiner{
+  width: 1140px;
+  height: 695px;
+  position: absolute;
+  margin-top:25px ;
+  margin-left: 25px;
+}
+.table{
+  text-align: center;
+  color: #484848;
+  border-spacing: 0;
+}
+.choose{
+  font-size: 18px;
+  font-weight: 700;
+}
+.pricing{
+  font-size: 30px;
+  font-weight: 700;
+}
+.td1{
+  width: 310px;
+}
+
+.td2,
+.td3,
+.td4{
+  width: 275px;
+}
+.tr1{
+  height: 72px;
+ background-color: #fafafa;
+  
+}
+.tr2{
+  height: 86px;
+  background-color: #fafafa;
+}
+
+.tr3,
+.tr5,
+.tr7{
+  background-color: #f2f2f2;
+}
+.tr4,
+.tr6,
+.tr8{
+  background-color: #e3e3e3;
+}
+
+.tr3,
+.tr4,
+.tr5,
+.tr6,
+.tr7,
+.tr8{
+  height: 69px;
+}
+.tr9{
+  height: 110px;
+}
+
+.td2{
+  background-color: #89c331;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+}
+.td3{
+  background-color: #f04a56;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+}
+.td4{
+  background-color: #20807c;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+}
+.contact{
+  background-color: #dddddd;
+}
+.buy1{
+  background-color: #eeeeee;
+}
+.buy2 {
+  background-color: #f4f4f4;
+}
+.buy3 {
+  background-color: #eeeeee;
+}
+.td5>p {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.td5>p>sup {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.per_month {
+  font-size: 18px;
+  font-weight: 400;
+  margin: -30px;
+}
+.button1,
+.button2,
+.button3,
+.button4{
+  height: 49px;
+  width: 192px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  border: none;
+  transition: 1s;
+}
+.button1{
+  background-color: #484848;
+}
+.button2{
+  background-color: #89c331;
+}
+.button3{
+  background-color: #f04a56;
+}
+.button4{
+  background-color: #20807c;
+}
+.a{
+  text-decoration: none;
+  color: #fff;
+  
+}
+
+.button1:hover{
+  background-color: #ff00ff;
+  transform: scale(1.2);
+}
+.button2:hover {
+  background-color: #ff00ff;
+  transform: scale(1.2);
+}
+.button3:hover {
+  background-color: #ff00ff;
+  transform: scale(1.2);
+}
+.button4:hover {
+  background-color: #ff00ff;
+  transform: scale(1.2);
+}
